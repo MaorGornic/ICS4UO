@@ -1,0 +1,34 @@
+C:\Users\1GORNIKMAO\AppData\Local\Temporary Projects\String Replacement\bin\Debug\String Replacement.exe.config
+C:\Users\1GORNIKMAO\AppData\Local\Temporary Projects\String Replacement\bin\Debug\String Replacement.exe
+C:\Users\1GORNIKMAO\AppData\Local\Temporary Projects\String Replacement\bin\Debug\String Replacement.pdb
+C:\Users\1GORNIKMAO\AppData\Local\Temporary Projects\String Replacement\bin\Debug\String Replacement.xml
+C:\Users\1GORNIKMAO\AppData\Local\Temporary Projects\String Replacement\obj\Debug\String_Replacement.Resources.resources
+C:\Users\1GORNIKMAO\AppData\Local\Temporary Projects\String Replacement\obj\Debug\String Replacement.vbproj.GenerateResource.Cache
+C:\Users\1GORNIKMAO\AppData\Local\Temporary Projects\String Replacement\obj\Debug\String Replacement.exe
+C:\Users\1GORNIKMAO\AppData\Local\Temporary Projects\String Replacement\obj\Debug\String Replacement.xml
+C:\Users\1GORNIKMAO\AppData\Local\Temporary Projects\String Replacement\obj\Debug\String Replacement.pdb
+C:\Users\1GORNIKMAO\AppData\Local\Temporary Projects\String Replacement\obj\Debug\String_Replacement.frm_Main.resources
+G:\Computer Science\Assignment 7 - String Replacement\String Replacement\String Replacement\bin\Debug\String Replacement.exe.config
+G:\Computer Science\Assignment 7 - String Replacement\String Replacement\String Replacement\obj\Debug\String Replacement.exe
+G:\Computer Science\Assignment 7 - String Replacement\String Replacement\String Replacement\obj\Debug\String Replacement.xml
+G:\Computer Science\Assignment 7 - String Replacement\String Replacement\String Replacement\obj\Debug\String Replacement.pdb
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\String Replacement\String Replacement\bin\Debug\String Replacement.exe.config
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\String Replacement\String Replacement\obj\Debug\String Replacement.exe
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\String Replacement\String Replacement\obj\Debug\String Replacement.xml
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\String Replacement\String Replacement\obj\Debug\String Replacement.pdb
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\String Replacement\String Replacement\bin\Debug\String Replacement.exe
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\String Replacement\String Replacement\bin\Debug\String Replacement.pdb
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\String Replacement\String Replacement\bin\Debug\String Replacement.xml
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\String Replacement\String Replacement\obj\Debug\String_Replacement.frm_Main.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\String Replacement\String Replacement\obj\Debug\String_Replacement.Resources.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\String Replacement\String Replacement\obj\Debug\String Replacement.vbproj.GenerateResource.Cache
+G:\Computer Science\Assignment 7 - String Replacement\String Replacement\String Replacement\bin\Debug\String Replacement.exe
+G:\Computer Science\Assignment 7 - String Replacement\String Replacement\String Replacement\bin\Debug\String Replacement.pdb
+G:\Computer Science\Assignment 7 - String Replacement\String Replacement\String Replacement\bin\Debug\String Replacement.xml
+G:\Computer Science\Assignment 7 - String Replacement\String Replacement\String Replacement\obj\Debug\String_Replacement.frm_Main.resources
+G:\Computer Science\Assignment 7 - String Replacement\String Replacement\String Replacement\obj\Debug\String_Replacement.Resources.resources
+G:\Computer Science\Assignment 7 - String Replacement\String Replacement\String Replacement\obj\Debug\String Replacement.vbproj.GenerateResource.Cache
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Computer Science\Assignment 7 - String Replacement\String Replacement\String Replacement\bin\Debug\String Replacement.exe.config
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Computer Science\Assignment 7 - String Replacement\String Replacement\String Replacement\obj\Debug\String Replacement.exe
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Computer Science\Assignment 7 - String Replacement\String Replacement\String Replacement\obj\Debug\String Replacement.xml
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Computer Science\Assignment 7 - String Replacement\String Replacement\String Replacement\obj\Debug\String Replacement.pdb

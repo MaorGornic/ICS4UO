@@ -1,0 +1,143 @@
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.exe.config
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.exe
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.pdb
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.xml
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_MainMenu.resources
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.Resources.resources
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.vbproj.GenerateResource.Cache
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.exe
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.xml
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.pdb
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.exe.config
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.exe
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.xml
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.pdb
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.exe
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.pdb
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.xml
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_MainMenu.resources
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.Resources.resources
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.vbproj.GenerateResource.Cache
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_Craps.resources
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Test\Casino Craps Practice Edition\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.exe.config
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Test\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.exe
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Test\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.xml
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Test\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.pdb
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Test\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_MainMenu.resources
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Test\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_Craps.resources
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Test\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.Resources.resources
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Test\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.vbproj.GenerateResource.Cache
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Test\Casino Craps Practice Edition\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.exe
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Test\Casino Craps Practice Edition\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.pdb
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Test\Casino Craps Practice Edition\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.xml
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Test - Copy\Casino Craps Practice Edition\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.exe.config
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Test - Copy\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.exe
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Test - Copy\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.xml
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Test - Copy\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.pdb
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Test - Copy\Casino Craps Practice Edition\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.exe
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Test - Copy\Casino Craps Practice Edition\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.pdb
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Test - Copy\Casino Craps Practice Edition\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.xml
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Test - Copy\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_MainMenu.resources
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Test - Copy\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_Craps.resources
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Test - Copy\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.Resources.resources
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Test - Copy\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.vbproj.GenerateResource.Cache
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.exe.config
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.exe
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.xml
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.pdb
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.exe
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.pdb
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.xml
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_MainMenu.resources
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_Craps.resources
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.Resources.resources
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.vbproj.GenerateResource.Cache
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 23\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.exe.config
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 23\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.exe
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 23\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.xml
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 23\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.pdb
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 23\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.exe
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 23\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.pdb
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 23\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.xml
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 23\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_MainMenu.resources
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 23\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_Craps.resources
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 23\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.Resources.resources
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 23\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.vbproj.GenerateResource.Cache
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition Apr 23\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.exe.config
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition Apr 23\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.exe
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition Apr 23\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.xml
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition Apr 23\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.pdb
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition Apr 23\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.exe
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition Apr 23\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.pdb
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition Apr 23\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.xml
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition Apr 23\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_MainMenu.resources
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition Apr 23\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_Craps.resources
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition Apr 23\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.Resources.resources
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition Apr 23\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.vbproj.GenerateResource.Cache
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 24\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.exe.config
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 24\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.exe
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 24\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.xml
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 24\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.pdb
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 24\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.exe
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 24\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.pdb
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 24\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.xml
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 24\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_MainMenu.resources
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 24\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_Craps.resources
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 24\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.Resources.resources
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 24\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.vbproj.GenerateResource.Cache
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 24\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_Premium.resources
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition Apr 24\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.exe.config
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition Apr 24\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.exe
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition Apr 24\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.xml
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition Apr 24\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.pdb
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition Apr 24\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.exe
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition Apr 24\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.pdb
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition Apr 24\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.xml
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition Apr 24\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_MainMenu.resources
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition Apr 24\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_Craps.resources
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition Apr 24\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_Premium.resources
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition Apr 24\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.Resources.resources
+G:\Computer Science\Casino Craps Practice Edition\Casino Craps Practice Edition Apr 24\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.vbproj.GenerateResource.Cache
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.exe.config
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.exe
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.xml
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.pdb
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.exe
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.pdb
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.xml
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_MainMenu.resources
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_Craps.resources
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_Premium.resources
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.Resources.resources
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.vbproj.GenerateResource.Cache
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_Instructions.resources
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.Settings.resources
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_InstructionsP2.resources
+C:\Users\SmartOne\Documents\Visual Studio 2010\Projects\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_InstructionsP3.resources
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.exe.config
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.exe
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.xml
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.pdb
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.exe
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.pdb
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.xml
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_InstructionsP2.resources
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_InstructionsP3.resources
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_MainMenu.resources
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_Craps.resources
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_Premium.resources
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_Instructions.resources
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.Resources.resources
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.Settings.resources
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.vbproj.GenerateResource.Cache
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition Apr 25\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_InstructionsP4.resources
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_InstructionsP2.resources
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_InstructionsP3.resources
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_InstructionsP4.resources
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_Premium.resources
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.frm_Instructions.resources
+G:\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino_Craps_Practice_Edition.Settings.resources
+S:\grade11\1GORNIKMAO\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition\Casino Craps Practice Edition\bin\Debug\Casino Craps Practice Edition.exe.config
+S:\grade11\1GORNIKMAO\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.exe
+S:\grade11\1GORNIKMAO\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.xml
+S:\grade11\1GORNIKMAO\Computer Science\Assignment 5 - Casino Craps\Casino Craps Practice Edition\Casino Craps Practice Edition\obj\Debug\Casino Craps Practice Edition.pdb

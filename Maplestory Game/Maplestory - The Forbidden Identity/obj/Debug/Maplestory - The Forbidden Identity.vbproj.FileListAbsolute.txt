@@ -1,0 +1,204 @@
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.exe.config
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.exe
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.pdb
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.xml
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.Resources.resources
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.vbproj.GenerateResource.Cache
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.exe
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.xml
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.pdb
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Login.resources
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - The Forbidden Identity\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.exe.config
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - The Forbidden Identity\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.exe
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - The Forbidden Identity\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.xml
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - The Forbidden Identity\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.pdb
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - The Forbidden Identity\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.exe
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - The Forbidden Identity\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.pdb
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - The Forbidden Identity\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.xml
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - The Forbidden Identity\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Login.resources
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - The Forbidden Identity\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.Resources.resources
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - The Forbidden Identity\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.vbproj.GenerateResource.Cache
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - The Forbidden Identity\Maplestory - The Forbidden Identity\bin\Debug\Interop.WMPLib.dll
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - The Forbidden Identity\Maplestory - The Forbidden Identity\bin\Debug\AxInterop.WMPLib.dll
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - The Forbidden Identity\Maplestory - The Forbidden Identity\obj\Debug\Interop.MediaPlayer.dll
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - The Forbidden Identity\Maplestory - The Forbidden Identity\obj\Debug\Interop.WMPLib.dll
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - The Forbidden Identity\Maplestory - The Forbidden Identity\obj\Debug\AxInterop.WMPLib.dll
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - The Forbidden Identity\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.vbproj.ResolveComReference.cache
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - The Forbidden Identity\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Ellinia.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - The Forbidden Identity (Test)\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.exe.config
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - The Forbidden Identity (Test)\Maplestory - The Forbidden Identity\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - The Forbidden Identity (Test)\Maplestory - The Forbidden Identity\obj\Debug\Interop.WMPLib.dll
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - The Forbidden Identity (Test)\Maplestory - The Forbidden Identity\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - The Forbidden Identity (Test)\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.vbproj.ResolveComReference.cache
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - The Forbidden Identity (Test)\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.exe
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - The Forbidden Identity (Test)\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.xml
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - The Forbidden Identity (Test)\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.pdb
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - The Forbidden Identity (Test)\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.exe
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - The Forbidden Identity (Test)\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.pdb
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - The Forbidden Identity (Test)\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.xml
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - The Forbidden Identity (Test)\Maplestory - The Forbidden Identity\bin\Debug\Interop.WMPLib.dll
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - The Forbidden Identity (Test)\Maplestory - The Forbidden Identity\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - The Forbidden Identity (Test)\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Login.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - The Forbidden Identity (Test)\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Ellinia.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - The Forbidden Identity (Test)\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.Resources.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - The Forbidden Identity (Test)\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.vbproj.GenerateResource.Cache
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.exe.config
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Interop.WMPLib.dll
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.vbproj.ResolveComReference.cache
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.exe
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.xml
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.pdb
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.exe
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.pdb
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.xml
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative\Maplestory - The Forbidden Identity\bin\Debug\Interop.WMPLib.dll
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative\Maplestory - The Forbidden Identity\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Login.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Ellinia.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.Resources.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.vbproj.GenerateResource.Cache
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.exe.config
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Interop.MediaPlayer.dll
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Interop.WMPLib.dll
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\AxInterop.WMPLib.dll
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.vbproj.ResolveComReference.cache
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.exe
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.xml
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.pdb
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.exe
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.pdb
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.xml
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\bin\Debug\Interop.WMPLib.dll
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\bin\Debug\AxInterop.WMPLib.dll
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Login.resources
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Ellinia.resources
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.Resources.resources
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.vbproj.GenerateResource.Cache
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.exe.config
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Interop.WMPLib.dll
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.vbproj.ResolveComReference.cache
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.exe
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.xml
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.pdb
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.exe
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.pdb
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.xml
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\bin\Debug\Interop.WMPLib.dll
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Login.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Ellinia.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.Resources.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.vbproj.GenerateResource.Cache
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.exe.config
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Interop.MediaPlayer.dll
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Interop.WMPLib.dll
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\AxInterop.WMPLib.dll
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.vbproj.ResolveComReference.cache
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.exe
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.xml
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.pdb
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.exe
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.pdb
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.xml
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\bin\Debug\Interop.WMPLib.dll
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\bin\Debug\AxInterop.WMPLib.dll
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Login.resources
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Ellinia.resources
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.Resources.resources
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.vbproj.GenerateResource.Cache
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.exe.config
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\obj\Debug\Interop.WMPLib.dll
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.vbproj.ResolveComReference.cache
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.exe
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.xml
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.pdb
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.exe
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.pdb
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.xml
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\bin\Debug\Interop.WMPLib.dll
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Login.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Ellinia.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.Resources.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.vbproj.GenerateResource.Cache
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.exe.config
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\obj\Debug\Interop.MediaPlayer.dll
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\obj\Debug\Interop.WMPLib.dll
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\obj\Debug\AxInterop.WMPLib.dll
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.vbproj.ResolveComReference.cache
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.exe
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.xml
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.pdb
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.exe
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.pdb
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.xml
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\bin\Debug\Interop.WMPLib.dll
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\bin\Debug\AxInterop.WMPLib.dll
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Login.resources
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Ellinia.resources
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.Resources.resources
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative 2018\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.vbproj.GenerateResource.Cache
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Chat.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Chat.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Settings.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_GameOver.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Shortcuts.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Tutorial.resources
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_GameOver.resources
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Settings.resources
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Shortcuts.resources
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Tutorial.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Quest.resources
+G:\Computer Science\Assignment 8 - Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Quest.resources
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.exe.config
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Interop.MediaPlayer.dll
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Interop.WMPLib.dll
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\AxInterop.WMPLib.dll
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.vbproj.ResolveComReference.cache
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.exe
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.xml
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.pdb
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.exe
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.pdb
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.xml
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\bin\Debug\Interop.WMPLib.dll
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\bin\Debug\AxInterop.WMPLib.dll
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Chat.resources
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Login.resources
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Ellinia.resources
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_GameOver.resources
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Quest.resources
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Settings.resources
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Shortcuts.resources
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Tutorial.resources
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.Resources.resources
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative Updated\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.vbproj.GenerateResource.Cache
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.exe.config
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Interop.MediaPlayer.dll
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Interop.WMPLib.dll
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\AxInterop.WMPLib.dll
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.vbproj.ResolveComReference.cache
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.exe
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.xml
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.pdb
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.exe
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.pdb
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\bin\Debug\Maplestory - The Forbidden Identity.xml
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\bin\Debug\Interop.WMPLib.dll
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\bin\Debug\AxInterop.WMPLib.dll
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Chat.resources
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Login.resources
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Ellinia.resources
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_GameOver.resources
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Quest.resources
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Settings.resources
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Shortcuts.resources
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.frm_Tutorial.resources
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory___The_Forbidden_Identity.Resources.resources
+G:\Computer Science\Final Performance - Task Maplestory\Maplestory - Final Summative\Maplestory - The Forbidden Identity\obj\Debug\Maplestory - The Forbidden Identity.vbproj.GenerateResource.Cache

@@ -1,0 +1,30 @@
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Prog6 - Casino Craps Simulation\bin\Debug\Prog6 - Casino Craps Simulation.exe.config
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Prog6 - Casino Craps Simulation\bin\Debug\Prog6 - Casino Craps Simulation.exe
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Prog6 - Casino Craps Simulation\bin\Debug\Prog6 - Casino Craps Simulation.pdb
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Prog6 - Casino Craps Simulation\bin\Debug\Prog6 - Casino Craps Simulation.xml
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Prog6 - Casino Craps Simulation\obj\Debug\Prog6___Casino_Craps_Simulation.Resources.resources
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Prog6 - Casino Craps Simulation\obj\Debug\Prog6 - Casino Craps Simulation.vbproj.GenerateResource.Cache
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Prog6 - Casino Craps Simulation\obj\Debug\Prog6 - Casino Craps Simulation.exe
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Prog6 - Casino Craps Simulation\obj\Debug\Prog6 - Casino Craps Simulation.xml
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Prog6 - Casino Craps Simulation\obj\Debug\Prog6 - Casino Craps Simulation.pdb
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Prog6 - Casino Craps Simulation\obj\Debug\Prog6___Casino_Craps_Simulation.frm_Main.resources
+G:\Computer Science\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\bin\Debug\Prog6 - Casino Craps Simulation.exe.config
+G:\Computer Science\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\obj\Debug\Prog6 - Casino Craps Simulation.exe
+G:\Computer Science\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\obj\Debug\Prog6 - Casino Craps Simulation.xml
+G:\Computer Science\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\obj\Debug\Prog6 - Casino Craps Simulation.pdb
+G:\Computer Science\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\bin\Debug\Prog6 - Casino Craps Simulation.exe
+G:\Computer Science\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\bin\Debug\Prog6 - Casino Craps Simulation.pdb
+G:\Computer Science\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\bin\Debug\Prog6 - Casino Craps Simulation.xml
+G:\Computer Science\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\obj\Debug\Prog6___Casino_Craps_Simulation.frm_Main.resources
+G:\Computer Science\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\obj\Debug\Prog6___Casino_Craps_Simulation.Resources.resources
+G:\Computer Science\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\obj\Debug\Prog6 - Casino Craps Simulation.vbproj.GenerateResource.Cache
+S:\grade11\1GORNIKMAO\Computer Science\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\bin\Debug\Prog6 - Casino Craps Simulation.exe.config
+S:\grade11\1GORNIKMAO\Computer Science\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\obj\Debug\Prog6 - Casino Craps Simulation.exe
+S:\grade11\1GORNIKMAO\Computer Science\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\obj\Debug\Prog6 - Casino Craps Simulation.xml
+S:\grade11\1GORNIKMAO\Computer Science\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\obj\Debug\Prog6 - Casino Craps Simulation.pdb
+S:\grade11\1GORNIKMAO\Computer Science\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\bin\Debug\Prog6 - Casino Craps Simulation.exe
+S:\grade11\1GORNIKMAO\Computer Science\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\bin\Debug\Prog6 - Casino Craps Simulation.pdb
+S:\grade11\1GORNIKMAO\Computer Science\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\bin\Debug\Prog6 - Casino Craps Simulation.xml
+S:\grade11\1GORNIKMAO\Computer Science\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\obj\Debug\Prog6___Casino_Craps_Simulation.frm_Main.resources
+S:\grade11\1GORNIKMAO\Computer Science\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\obj\Debug\Prog6___Casino_Craps_Simulation.Resources.resources
+S:\grade11\1GORNIKMAO\Computer Science\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\Prog6 - Casino Craps Simulation\obj\Debug\Prog6 - Casino Craps Simulation.vbproj.GenerateResource.Cache

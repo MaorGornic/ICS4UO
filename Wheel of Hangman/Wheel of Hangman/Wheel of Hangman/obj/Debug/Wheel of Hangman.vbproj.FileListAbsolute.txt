@@ -1,0 +1,74 @@
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Wheel of Hangman\bin\Debug\Wheel of Hangman.exe.config
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Wheel of Hangman\bin\Debug\Wheel of Hangman.exe
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Wheel of Hangman\bin\Debug\Wheel of Hangman.pdb
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Wheel of Hangman\bin\Debug\Wheel of Hangman.xml
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Wheel of Hangman\obj\Debug\Wheel_of_Hangman.Resources.resources
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Wheel of Hangman\obj\Debug\Wheel of Hangman.vbproj.GenerateResource.Cache
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Wheel of Hangman\obj\Debug\Wheel of Hangman.exe
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Wheel of Hangman\obj\Debug\Wheel of Hangman.xml
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Wheel of Hangman\obj\Debug\Wheel of Hangman.pdb
+C:\Users\1gornikmao\AppData\Local\Temporary Projects\Wheel of Hangman\obj\Debug\Wheel_of_Hangman.Form1.resources
+G:\Computer Science\Assignment 6 - Wheel of Hangman\Wheel of Hangman\Wheel of Hangman\bin\Debug\Wheel of Hangman.exe.config
+G:\Computer Science\Assignment 6 - Wheel of Hangman\Wheel of Hangman\Wheel of Hangman\obj\Debug\Wheel of Hangman.exe
+G:\Computer Science\Assignment 6 - Wheel of Hangman\Wheel of Hangman\Wheel of Hangman\obj\Debug\Wheel of Hangman.xml
+G:\Computer Science\Assignment 6 - Wheel of Hangman\Wheel of Hangman\Wheel of Hangman\obj\Debug\Wheel of Hangman.pdb
+G:\Computer Science\Assignment 6 - Wheel of Hangman\Wheel of Hangman\Wheel of Hangman\bin\Debug\Wheel of Hangman.exe
+G:\Computer Science\Assignment 6 - Wheel of Hangman\Wheel of Hangman\Wheel of Hangman\bin\Debug\Wheel of Hangman.pdb
+G:\Computer Science\Assignment 6 - Wheel of Hangman\Wheel of Hangman\Wheel of Hangman\bin\Debug\Wheel of Hangman.xml
+G:\Computer Science\Assignment 6 - Wheel of Hangman\Wheel of Hangman\Wheel of Hangman\obj\Debug\Wheel_of_Hangman.Resources.resources
+G:\Computer Science\Assignment 6 - Wheel of Hangman\Wheel of Hangman\Wheel of Hangman\obj\Debug\Wheel of Hangman.vbproj.GenerateResource.Cache
+G:\Computer Science\Assignment 6 - Wheel of Hangman\Wheel of Hangman\Wheel of Hangman\obj\Debug\Wheel_of_Hangman.frm_Main.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman\Wheel of Hangman\bin\Debug\Wheel of Hangman.exe.config
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman\Wheel of Hangman\obj\Debug\Wheel of Hangman.exe
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman\Wheel of Hangman\obj\Debug\Wheel of Hangman.xml
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman\Wheel of Hangman\obj\Debug\Wheel of Hangman.pdb
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman\Wheel of Hangman\bin\Debug\Wheel of Hangman.exe
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman\Wheel of Hangman\bin\Debug\Wheel of Hangman.pdb
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman\Wheel of Hangman\bin\Debug\Wheel of Hangman.xml
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman\Wheel of Hangman\obj\Debug\Wheel_of_Hangman.frm_Main.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman\Wheel of Hangman\obj\Debug\Wheel_of_Hangman.Resources.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman\Wheel of Hangman\obj\Debug\Wheel of Hangman.vbproj.GenerateResource.Cache
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test\Wheel of Hangman\bin\Debug\Wheel of Hangman.exe.config
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test\Wheel of Hangman\obj\Debug\Wheel of Hangman.exe
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test\Wheel of Hangman\obj\Debug\Wheel of Hangman.xml
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test\Wheel of Hangman\obj\Debug\Wheel of Hangman.pdb
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test\Wheel of Hangman\bin\Debug\Wheel of Hangman.exe
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test\Wheel of Hangman\bin\Debug\Wheel of Hangman.pdb
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test\Wheel of Hangman\bin\Debug\Wheel of Hangman.xml
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test\Wheel of Hangman\obj\Debug\Wheel_of_Hangman.frm_Main.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test\Wheel of Hangman\obj\Debug\Wheel_of_Hangman.Resources.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test\Wheel of Hangman\obj\Debug\Wheel of Hangman.vbproj.GenerateResource.Cache
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test NEW\Wheel of Hangman\bin\Debug\Wheel of Hangman.exe.config
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test NEW\Wheel of Hangman\obj\Debug\Wheel of Hangman.exe
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test NEW\Wheel of Hangman\obj\Debug\Wheel of Hangman.xml
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test NEW\Wheel of Hangman\obj\Debug\Wheel of Hangman.pdb
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test NEW\Wheel of Hangman\bin\Debug\Wheel of Hangman.exe
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test NEW\Wheel of Hangman\bin\Debug\Wheel of Hangman.pdb
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test NEW\Wheel of Hangman\bin\Debug\Wheel of Hangman.xml
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test NEW\Wheel of Hangman\obj\Debug\Wheel_of_Hangman.frm_Main.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test NEW\Wheel of Hangman\obj\Debug\Wheel_of_Hangman.Resources.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test NEW\Wheel of Hangman\obj\Debug\Wheel of Hangman.vbproj.GenerateResource.Cache
+G:\Computer Science\Side Projects\Wheel of Hangman Test NEW\Wheel of Hangman\bin\Debug\Wheel of Hangman.exe.config
+G:\Computer Science\Side Projects\Wheel of Hangman Test NEW\Wheel of Hangman\obj\Debug\Wheel of Hangman.exe
+G:\Computer Science\Side Projects\Wheel of Hangman Test NEW\Wheel of Hangman\obj\Debug\Wheel of Hangman.xml
+G:\Computer Science\Side Projects\Wheel of Hangman Test NEW\Wheel of Hangman\obj\Debug\Wheel of Hangman.pdb
+G:\Computer Science\Side Projects\Wheel of Hangman Test NEW\Wheel of Hangman\bin\Debug\Wheel of Hangman.exe
+G:\Computer Science\Side Projects\Wheel of Hangman Test NEW\Wheel of Hangman\bin\Debug\Wheel of Hangman.pdb
+G:\Computer Science\Side Projects\Wheel of Hangman Test NEW\Wheel of Hangman\bin\Debug\Wheel of Hangman.xml
+G:\Computer Science\Side Projects\Wheel of Hangman Test NEW\Wheel of Hangman\obj\Debug\Wheel_of_Hangman.frm_Main.resources
+G:\Computer Science\Side Projects\Wheel of Hangman Test NEW\Wheel of Hangman\obj\Debug\Wheel_of_Hangman.Resources.resources
+G:\Computer Science\Side Projects\Wheel of Hangman Test NEW\Wheel of Hangman\obj\Debug\Wheel of Hangman.vbproj.GenerateResource.Cache
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test NEW 2\Wheel of Hangman\bin\Debug\Wheel of Hangman.exe.config
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test NEW 2\Wheel of Hangman\obj\Debug\Wheel of Hangman.exe
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test NEW 2\Wheel of Hangman\obj\Debug\Wheel of Hangman.xml
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test NEW 2\Wheel of Hangman\obj\Debug\Wheel of Hangman.pdb
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test NEW 2\Wheel of Hangman\bin\Debug\Wheel of Hangman.exe
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test NEW 2\Wheel of Hangman\bin\Debug\Wheel of Hangman.pdb
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test NEW 2\Wheel of Hangman\bin\Debug\Wheel of Hangman.xml
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test NEW 2\Wheel of Hangman\obj\Debug\Wheel_of_Hangman.frm_Main.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test NEW 2\Wheel of Hangman\obj\Debug\Wheel_of_Hangman.Resources.resources
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Wheel of Hangman Test NEW 2\Wheel of Hangman\obj\Debug\Wheel of Hangman.vbproj.GenerateResource.Cache
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Computer Science\Assignment 6 - Wheel of Hangman\Wheel of Hangman\Wheel of Hangman\bin\Debug\Wheel of Hangman.exe.config
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Computer Science\Assignment 6 - Wheel of Hangman\Wheel of Hangman\Wheel of Hangman\obj\Debug\Wheel of Hangman.exe
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Computer Science\Assignment 6 - Wheel of Hangman\Wheel of Hangman\Wheel of Hangman\obj\Debug\Wheel of Hangman.xml
+C:\Users\Abwatts\Documents\Visual Studio 2010\Projects\Computer Science\Assignment 6 - Wheel of Hangman\Wheel of Hangman\Wheel of Hangman\obj\Debug\Wheel of Hangman.pdb
